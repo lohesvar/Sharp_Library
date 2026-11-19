@@ -17,3 +17,5 @@ issue_status = "Issued"
 print("\n----- Book Issue Details -----")
 print("Book Name:", book_name)
 print("Issue Status:", issue_status)
+
+# Updated directly through GitHub
